@@ -1,0 +1,90 @@
+[
+  {
+    "id": "SCH_001",
+    "course_id": "CRS001",
+    "class_id": "CLASS001",
+    "teacher_id": "USR003",
+    "date": "2025-12-02",
+    "day": "Monday",
+    "start_time": "08:00",
+    "end_time": "09:30",
+    "room": "Room 101"
+  },
+  {
+    "id": "SCH_002",
+    "course_id": "CRS002",
+    "class_id": "CLASS001",
+    "teacher_id": "USR005",
+    "date": "2025-12-02",
+    "day": "Monday",
+    "start_time": "10:00",
+    "end_time": "11:30",
+    "room": "Room 205"
+  },
+  {
+    "id": "SCH_003",
+    "course_id": "CRS003",
+    "class_id": "CLASS001",
+    "teacher_id": "USR003",
+    "date": "2025-12-03",
+    "day": "Tuesday",
+    "start_time": "08:00",
+    "end_time": "09:30",
+    "room": "Lab 1"
+  },
+  {
+    "id": "SCH_004",
+    "course_id": "CRS004",
+    "class_id": "CLASS001",
+    "teacher_id": "USR005",
+    "date": "2025-12-04",
+    "day": "Wednesday",
+    "start_time": "13:00",
+    "end_time": "14:30",
+    "room": "Room 302"
+  },
+  {
+    "id": "SCH_005",
+    "course_id": "CRS005",
+    "class_id": "CLASS001",
+    "teacher_id": "USR003",
+    "date": "2025-12-05",
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "11:30",
+    "room": "Computer Lab"
+  },
+  {
+    "id": "SCH_006",
+    "course_id": "CRS001",
+    "class_id": "CLASS001",
+    "teacher_id": "USR003",
+    "date": "2025-12-06",
+    "day": "Friday",
+    "start_time": "08:00",
+    "end_time": "09:30",
+    "room": "Room 101"
+  },
+  {
+    "id": "SCH_007",
+    "course_id": "CRS002",
+    "class_id": "CLASS001",
+    "teacher_id": "USR005",
+    "date": "2025-12-09",
+    "day": "Monday",
+    "start_time": "10:00",
+    "end_time": "11:30",
+    "room": "Room 205"
+  },
+  {
+    "id": "SCH_008",
+    "course_id": "CRS003",
+    "class_id": "CLASS001",
+    "teacher_id": "USR003",
+    "date": "2025-12-10",
+    "day": "Tuesday",
+    "start_time": "08:00",
+    "end_time": "09:30",
+    "room": "Lab 1"
+  }
+]

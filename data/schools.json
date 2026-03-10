@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SCH001",
+    "name": "Lincoln High School",
+    "location": "New York, NY",
+    "students_count": 842,
+    "teachers_count": 64,
+    "status": "Active",
+    "created_at": "2024-01-15"
+  },
+  {
+    "id": "SCH002",
+    "name": "Washington Academy",
+    "location": "Los Angeles, CA",
+    "students_count": 1250,
+    "teachers_count": 89,
+    "status": "Active",
+    "created_at": "2024-02-20"
+  },
+  {
+    "id": "SCH003",
+    "name": "Roosevelt Elementary",
+    "location": "Chicago, IL",
+    "students_count": 567,
+    "teachers_count": 42,
+    "status": "Active",
+    "created_at": "2024-03-10"
+  },
+  {
+    "id": "SCH004",
+    "name": "Jefferson Middle School",
+    "location": "Houston, TX",
+    "students_count": 698,
+    "teachers_count": 54,
+    "status": "Pending",
+    "created_at": "2024-04-05"
+  },
+  {
+    "id": "SCH005",
+    "name": "Madison Prep School",
+    "location": "Phoenix, AZ",
+    "students_count": 923,
+    "teachers_count": 71,
+    "status": "Active",
+    "created_at": "2024-05-12"
+  }
+]

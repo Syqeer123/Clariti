@@ -1,0 +1,62 @@
+[
+  {
+    "id": "USR001",
+    "name": "Admin User",
+    "email": "admin@edu.com",
+    "password": "admin123",
+    "role": "admin",
+    "school_id": null,
+    "avatar": "A",
+    "created_at": "2024-01-01"
+  },
+  {
+    "id": "USR002",
+    "name": "John Smith",
+    "email": "headmaster@edu.com",
+    "password": "hm123",
+    "role": "headmaster",
+    "school_id": "SCH001",
+    "avatar": "JS",
+    "created_at": "2024-01-15"
+  },
+  {
+    "id": "USR003",
+    "name": "Sarah Johnson",
+    "email": "teacher@edu.com",
+    "password": "teacher123",
+    "role": "teacher",
+    "school_id": "SCH001",
+    "avatar": "SJ",
+    "created_at": "2024-02-01"
+  },
+  {
+    "id": "USR004",
+    "name": "Michael Brown",
+    "email": "student@edu.com",
+    "password": "student123",
+    "role": "student",
+    "school_id": "SCH001",
+    "avatar": "MB",
+    "created_at": "2024-02-15"
+  },
+  {
+    "id": "USR005",
+    "name": "Emily Davis",
+    "email": "emily.davis@edu.com",
+    "password": "teacher123",
+    "role": "teacher",
+    "school_id": "SCH001",
+    "avatar": "ED",
+    "created_at": "2024-02-20"
+  },
+  {
+    "id": "USR006",
+    "name": "David Wilson",
+    "email": "david.wilson@edu.com",
+    "password": "student123",
+    "role": "student",
+    "school_id": "SCH001",
+    "avatar": "DW",
+    "created_at": "2024-03-01"
+  }
+]
